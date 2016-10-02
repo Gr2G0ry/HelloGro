@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        À propos de HelloGro
+        À propos de HelloGro (By GitHub)
     </h2>
     <p>
         
