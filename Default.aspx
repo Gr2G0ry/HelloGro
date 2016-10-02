@@ -8,7 +8,7 @@
         Bienvenue sur HelloGro
     </h2>
     <p>
-        Les sources du site sont présents sur le <a href="https://github.com/Gr2G0ry/" title="GitHub">GitHub</a>.
+        Les sources du site sont présents sur le <a href="https://github.com/Gr2G0ry/" title="GitHub">GitHub !</a>.
     </p>
     <p>
         <!--Vous pouvez également trouver de la <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
